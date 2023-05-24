@@ -24,8 +24,8 @@ library(lubridate)
 
 symbol <- "AAPL" # input your desired stock symbol (working in yahoo finance)
 
-end_date <- as.Date("2022-03-01")
-start_date <- as.Date("2022-02-01")
+end_date <- as.Date("2023-05-24")
+start_date <- as.Date("2023-04-24")
 
 # Fetch stock data
 stock_data <- getSymbols(Symbols = symbol, src = "yahoo", from = start_date, to = end_date, auto.assign = FALSE)

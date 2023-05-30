@@ -1,5 +1,20 @@
 # Stock_Analyzer_R_PyScript
-
+<br>
+<p align="center">
+  <a href="https://github.com/MustakAbsarKhan/nvidia_driver_updator/issues">
+    <img src="https://img.shields.io/github/issues/MustakAbsarKhan/nvidia_driver_updator"/> 
+  </a>
+  <a href="https://github.com/MustakAbsarKhan/nvidia_driver_updator/network/members">
+    <img src="https://img.shields.io/github/forks/MustakAbsarKhan/nvidia_driver_updator"/> 
+  </a>  
+  <a href="https://github.com/MustakAbsarKhan/nvidia_driver_updator/stargazers">
+    <img src="https://img.shields.io/github/stars/MustakAbsarKhan/nvidia_driver_updator"/> 
+  </a>
+    <a href="https://github.com/MustakAbsarKhan/nvidia_driver_updator/LICENSE">
+    <img src="https://img.shields.io/github/license/MustakAbsarKhan/nvidia_driver_updator"/> 
+  </a>
+</p>
+<br>
 This repository contains scripts for analyzing stock prices using both R and Python. The scripts allow users to fetch stock data, visualize it using charts, and customize the analysis based on their requirements. The repository includes the following files:
 
 - `stock_analyzer.R`: R script for analyzing stock prices. It retrieves stock data from Yahoo Finance, filters it based on user-defined date range, and plots the prices using ggplot2.
